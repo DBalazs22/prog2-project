@@ -1,5 +1,5 @@
 # prog2-project
-Prog2 Project
+Java project
 
 # Költségszámoló app
 **Az applikáció azt a célt szolgálja,hogy számon tudjuk tartani a havi bevételeinket a kiadásainkat. Egyik alapvető funkciója egy kisebb bevásárló kosár, amely előtudja segíteni a bevásárlásainkat.**
